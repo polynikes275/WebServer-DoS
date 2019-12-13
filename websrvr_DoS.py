@@ -2,7 +2,7 @@
 
 ################################
 # Contributing authors         #
-# Dave Hoelzer, Jason Brewer   #
+# Dave H, Jason B              #
 ################################
 
 import argparse
