@@ -6,7 +6,7 @@
 ################################
 
 import argparse
-from os import system, popen
+from os import system
 from sys import argv, exit, stdout
 from scapy.all import *
 import random
